@@ -17,6 +17,7 @@ function App() {
         >
           Learn React~~~です〜〜〜〜！
           今日もお疲れ様でした！
+          今日は何をしましょうか！
         </a>
       </header>
     </div>
